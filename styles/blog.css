@@ -3,5 +3,5 @@ div{
     border: 20px saddlebrown magenta;
     padding: 15px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: xx-large;
+    font-size: xx-large; margin: 15px;
 }
